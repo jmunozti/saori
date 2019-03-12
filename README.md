@@ -1,5 +1,6 @@
 README.
 
+
 This program scrapes data from a computer store to grab title, image's URL,  old price and price save percent.
 
 Finally scraped data are stored in MongoDB. 
