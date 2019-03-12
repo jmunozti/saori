@@ -1,5 +1,7 @@
 # Description.
 
+**Status: In progress**
+
 **Saori** is a program that scrapes data from a computer store to grab title, image's URL,  old price and price save percent.
 
 Finally scraped data are stored in MongoDB. 
